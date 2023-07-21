@@ -1,0 +1,96 @@
+#: locale=pt
+
+## Action
+
+### URL
+LinkBehaviour_291252B9_3C32_CC11_41C1_FAE08484C877.source = https://api.whatsapp.com/send?phone=5548996336614
+LinkBehaviour_2553C8D2_3C32_DC13_4182_7ED86C562DDE.source = https://api.whatsapp.com/send?phone=5548996336614
+LinkBehaviour_432DFE7B_4C02_92DD_41D4_5C5BAB1AD98A.source = https://barautoautomoveis.com.br/
+LinkBehaviour_255C38D0_3C32_DC6F_41BC_2E3F1CFC6A63.source = https://g.page/r/CY12G85AoqnfEBM/review
+LinkBehaviour_2AF0D0C7_3C3E_4C71_41AF_9759FEEB4B36.source = https://g.page/r/CY12G85AoqnfEBM/review
+LinkBehaviour_2A6B0CF9_3C32_D411_41B2_AD72E66D0E55.source = https://imobiliariaantoniocarlos.com.br/
+LinkBehaviour_425D3B72_4C02_B2EC_41D4_B70C46350C68.source = https://imobiliariaantoniocarlos.com.br/
+LinkBehaviour_255068D4_3C32_DC17_41C6_BFFA34B5AC91.source = https://imobiliariaantoniocarlos.com.br/
+LinkBehaviour_0EC8CA5C_1EBD_F1A2_41B0_717140FE12E8.source = https://imobiliariaantoniocarlos.com.br/
+LinkBehaviour_106F98E3_1E9C_1266_41B5_1E696ED9292C.source = https://www.escritolandia.com.br/
+LinkBehaviour_255C78D2_3C32_DC13_41C1_3028AA8CF2ED.source = https://www.facebook.com/antoniocarlosimobiliaria
+LinkBehaviour_2BF5EEDE_3C32_5413_419B_040C0E04AD8C.source = https://www.facebook.com/antoniocarlosimobiliaria
+LinkBehaviour_2A8D2610_3C32_57EE_41CC_A30765AF4E3C.source = https://www.google.com/maps/place/Imobili%C3%A1ria+Ant%C3%B4nio+Carlos+-+Compra+e+Venda+de+Im%C3%B3veis,+Ch%C3%A1caras,+S%C3%ADtios,+Fazendas,+Im%C3%B3veis+na+Praia,+Aluguel+de+Im%C3%B3veis/@-27.5083737,-48.7405592,15z/data=!4m2!3m1!1s0x0:0xdfa9a240ce1b768d?sa=X&ved=2ahUKEwjL5Jqt5p-AAxVrrpUCHV-KA34Q_BJ6BAhLEAA&hl=pt-BR&ved=2ahUKEwjL5Jqt5p-AAxVrrpUCHV-KA34Q_BJ6BAhaEAg
+LinkBehaviour_255CB8D0_3C32_DC6F_4198_EBAA79F46769.source = https://www.google.com/maps/place/Imobili%C3%A1ria+Ant%C3%B4nio+Carlos+-+Compra+e+Venda+de+Im%C3%B3veis,+Ch%C3%A1caras,+S%C3%ADtios,+Fazendas,+Im%C3%B3veis+na+Praia,+Aluguel+de+Im%C3%B3veis/@-27.5083737,-48.7405592,15z/data=!4m2!3m1!1s0x0:0xdfa9a240ce1b768d?sa=X&ved=2ahUKEwjL5Jqt5p-AAxVrrpUCHV-KA34Q_BJ6BAhLEAA&hl=pt-BR&ved=2ahUKEwjL5Jqt5p-AAxVrrpUCHV-KA34Q_BJ6BAhaEAg
+LinkBehaviour_2AE878FC_3C32_DC16_416B_C2352776B18E.source = https://www.instagram.com/imobiliariaantoniocarlos/
+LinkBehaviour_255C48D1_3C32_DC11_41BC_71F37BDBD593.source = https://www.instagram.com/imobiliariaantoniocarlos/
+
+## Media
+
+### Audio
+audio_75EA1538_7866_1A31_41BD_70B5A5056DAC.path = null
+audio_6A6EBBAE_78BA_2ED0_41C3_D2ED5FF46749.path = null
+audiores_6BFBEE3F_78BA_262F_41D8_FFF87A0713F4.mp3Url = media/audio_6A6EBBAE_78BA_2ED0_41C3_D2ED5FF46749_pt.mp3
+audiores_6BFBEE3F_78BA_262F_41D8_FFF87A0713F4.oggUrl = media/audio_6A6EBBAE_78BA_2ED0_41C3_D2ED5FF46749_pt.ogg
+audiores_6C696C44_785E_EA50_41CF_041D023C1913.mp3Url = media/audio_75EA1538_7866_1A31_41BD_70B5A5056DAC_pt.mp3
+audiores_6C696C44_785E_EA50_41CF_041D023C1913.oggUrl = media/audio_75EA1538_7866_1A31_41BD_70B5A5056DAC_pt.ogg
+
+### Title
+panorama_7316E5C5_785A_7A50_41CC_BD44B11915CB.label = 1.1-DeNoiseAI-clear
+panorama_722D7D12_785A_EBF0_41BE_712D878271E5.label = 10-DeNoiseAI-clear
+panorama_722E64BA_785A_1A31_41CD_1E47F3EFD658.label = 11-DeNoiseAI-clear
+panorama_722DACA1_785A_2AD3_41D2_ACF267C12A28.label = 12-DeNoiseAI-clear
+panorama_722D9498_785A_3AF1_41C0_7FF210DACA1C.label = 13-DeNoiseAI-clear
+panorama_722DCCFC_785A_2A31_41BD_77ECC8481EC9.label = 14-DeNoiseAI-clear
+panorama_722DF4F3_785A_1A37_41C5_B050DB3CBB6A.label = 15-DeNoiseAI-clear
+panorama_722D1CFB_785A_6A37_41D5_9D1B97E9BAEA.label = 16-DeNoiseAI-clear
+panorama_72225F54_785A_6670_41D8_DAEB80A82B5C.label = 2.1-DeNoiseAI-clear
+panorama_722E271C_785A_27F0_41D9_51D898D1B275.label = 3-DeNoiseAI-clear
+panorama_722E3ED4_785A_2670_41BE_76ED52911D5A.label = 4-DeNoiseAI-clear
+panorama_722E96AB_785A_26D7_41CF_85776F8CCDB9.label = 5-DeNoiseAI-clear
+panorama_722E9E42_785A_2650_41DA_01E8083D0CB1.label = 6-DeNoiseAI-clear
+panorama_722E9648_785A_E650_41DD_3B84F5CA1A38.label = 7-DeNoiseAI-clear
+panorama_722D6DF0_785A_EA31_41C5_13327860E000.label = 8-DeNoiseAI-clear
+panorama_722EA589_785A_FAD0_4175_D1D1AFAA6081.label = 9-DeNoiseAI-clear
+
+## Skin
+
+### Button
+Button_28E7887E_3CD2_DC12_41CC_136E13FACD28.label = BUSCAR
+Button_28E7887E_3CD2_DC12_41CC_136E13FACD28_mobile.label = BUSCAR
+
+### Image
+Image_2ECF5EBF_3C35_D411_41C1_21A1BA9F05FC_mobile.path = null
+Image_2ECF5EBF_3C35_D411_41C1_21A1BA9F05FC.path = null
+Image_2ED1FC1E_3C33_D412_41A3_EE25C2C5EA0B_mobile.path = null
+Image_2ED1FC1E_3C33_D412_41A3_EE25C2C5EA0B.path = null
+Image_2ED69C5C_3C3E_D416_41C1_23B8A08B52AA_mobile.path = null
+Image_2ED69C5C_3C3E_D416_41C1_23B8A08B52AA.path = null
+Image_2F466471_3C4E_F411_41CB_1E701FB4DB68_mobile.path = null
+Image_2F466471_3C4E_F411_41CB_1E701FB4DB68.path = null
+Image_2FDDAFF7_3C32_D412_41B8_B6AF737F6555_mobile.path = null
+Image_2FDDAFF7_3C32_D412_41B8_B6AF737F6555.path = null
+Image_429C7430_4C03_766B_41A2_3F34D997C386.path = null
+Image_431B85D3_4C07_762D_41D5_D99ABD1F917C.path = null
+Image_2E93EAA6_3C57_DC32_41CB_3D0DA0D8B4CC.path = null
+Image_427F1976_4C02_BED4_41B4_7D00FAFB9512.path = null
+Image_2E93EAA6_3C57_DC32_41CB_3D0DA0D8B4CC.url = skin/Image_2E93EAA6_3C57_DC32_41CB_3D0DA0D8B4CC_pt.png
+Image_2ECF5EBF_3C35_D411_41C1_21A1BA9F05FC_mobile.url = skin/Image_2ECF5EBF_3C35_D411_41C1_21A1BA9F05FC_mobile_pt.png
+Image_2ECF5EBF_3C35_D411_41C1_21A1BA9F05FC.url = skin/Image_2ECF5EBF_3C35_D411_41C1_21A1BA9F05FC_pt.png
+Image_2ED1FC1E_3C33_D412_41A3_EE25C2C5EA0B_mobile.url = skin/Image_2ED1FC1E_3C33_D412_41A3_EE25C2C5EA0B_mobile_pt.png
+Image_2ED1FC1E_3C33_D412_41A3_EE25C2C5EA0B.url = skin/Image_2ED1FC1E_3C33_D412_41A3_EE25C2C5EA0B_pt.png
+Image_2ED69C5C_3C3E_D416_41C1_23B8A08B52AA_mobile.url = skin/Image_2ED69C5C_3C3E_D416_41C1_23B8A08B52AA_mobile_pt.png
+Image_2ED69C5C_3C3E_D416_41C1_23B8A08B52AA.url = skin/Image_2ED69C5C_3C3E_D416_41C1_23B8A08B52AA_pt.png
+Image_2F466471_3C4E_F411_41CB_1E701FB4DB68_mobile.url = skin/Image_2F466471_3C4E_F411_41CB_1E701FB4DB68_mobile_pt.png
+Image_2F466471_3C4E_F411_41CB_1E701FB4DB68.url = skin/Image_2F466471_3C4E_F411_41CB_1E701FB4DB68_pt.png
+Image_2FDDAFF7_3C32_D412_41B8_B6AF737F6555_mobile.url = skin/Image_2FDDAFF7_3C32_D412_41B8_B6AF737F6555_mobile_pt.png
+Image_2FDDAFF7_3C32_D412_41B8_B6AF737F6555.url = skin/Image_2FDDAFF7_3C32_D412_41B8_B6AF737F6555_pt.png
+Image_427F1976_4C02_BED4_41B4_7D00FAFB9512.url = skin/Image_427F1976_4C02_BED4_41B4_7D00FAFB9512_pt.png
+Image_429C7430_4C03_766B_41A2_3F34D997C386.url = skin/Image_429C7430_4C03_766B_41A2_3F34D997C386_pt.png
+Image_431B85D3_4C07_762D_41D5_D99ABD1F917C.url = skin/Image_431B85D3_4C07_762D_41D5_D99ABD1F917C_pt.png
+
+### Tooltip
+IconButton_22A550C6_3CD2_4C73_419F_8C9E05943413.toolTip = Fullscreen
+
+## Tour
+
+### Description
+tour.description = Faça um Tour Virtual e Conheça Nosso Espaço
+
+### Title
+tour.name = Imobiliária Antônio Carlos
