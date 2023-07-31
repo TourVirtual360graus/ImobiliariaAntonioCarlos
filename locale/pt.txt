@@ -31,7 +31,7 @@ audiores_6C696C44_785E_EA50_41CF_041D023C1913.mp3Url = media/audio_75EA1538_7866
 audiores_6C696C44_785E_EA50_41CF_041D023C1913.oggUrl = media/audio_75EA1538_7866_1A31_41BD_70B5A5056DAC_pt.ogg
 
 ### Title
-panorama_7316E5C5_785A_7A50_41CC_BD44B11915CB.label = 1.1-DeNoiseAI-clear
+panorama_B8DCD638_9FE6_E630_41C5_39ED2B4004B0.label = 1.1-DeNoiseAI-clear
 panorama_722D7D12_785A_EBF0_41BE_712D878271E5.label = 10-DeNoiseAI-clear
 panorama_722E64BA_785A_1A31_41CD_1E47F3EFD658.label = 11-DeNoiseAI-clear
 panorama_722DACA1_785A_2AD3_41D2_ACF267C12A28.label = 12-DeNoiseAI-clear
@@ -47,6 +47,7 @@ panorama_722E9E42_785A_2650_41DA_01E8083D0CB1.label = 6-DeNoiseAI-clear
 panorama_722E9648_785A_E650_41DD_3B84F5CA1A38.label = 7-DeNoiseAI-clear
 panorama_722D6DF0_785A_EA31_41C5_13327860E000.label = 8-DeNoiseAI-clear
 panorama_722EA589_785A_FAD0_4175_D1D1AFAA6081.label = 9-DeNoiseAI-clear
+panorama_B9C6F67A_9FEA_6630_41C7_1FD3F75E4693.label = aerea pronta-DeNoiseAI-clear1
 
 ## Skin
 
